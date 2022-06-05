@@ -5,4 +5,8 @@ public class Operacoes {
         Double resultado = num1 + num2;
         return resultado;
     }
+
+    public Double subtracao (Double num1, Double num2){
+        return num1 - num2;
+    }
 }
